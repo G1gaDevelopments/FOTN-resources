@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": [
+      {
+        "text": "NightVision v3b3",
+        "color": "dark_aqua"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "for FearOfTheNight",
+        "color": "#c6fdfe"
+      }
+    ]
+  }
+}

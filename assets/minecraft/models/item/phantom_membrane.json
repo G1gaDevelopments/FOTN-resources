@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/phantom_membrane"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 6164005
+      },
+      "model": "fotn:item/ench_phantom_membrane"
+    }
+  ]
+}

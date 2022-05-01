@@ -1,0 +1,32 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 6164001
+      },
+      "model": "fotn:item/blazeborn_baton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6164003
+      },
+      "model": "fotn:item/regal_sceptre"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6164006
+      },
+      "model": "fotn:item/queen_bag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6164016
+      },
+      "model": "fotn:item/royal_egg_launcher"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"1": "netherite_sword",
+		"2": "netherite_sword",
+		"layer0": "item/netherite_sword",
+		"particle": "netherite_sword",
+		"2_1": "netherite_sword",
+		"2_layer0": "item/netherite_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"translation": [-1.75, 4.25, 1.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [1, 6, 2.25]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "regal_sceptre",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "regal_sceptre",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [
+						{
+							"name": "regal_sceptre",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": []
+						},
+						{
+							"name": "regal_sceptre",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "royal_rapier",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "royal_rapier",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": []
+				},
+				{
+					"name": "royal_rapier",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": []
+				}
+			]
+		}
+	]
+}

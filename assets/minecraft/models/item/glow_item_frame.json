@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glow_item_frame"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 6164008
+      },
+      "model": "fotn:cblock/blazeborn_spawner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6164010
+      },
+      "model": "fotn:cblock/runecrafter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6164012
+      },
+      "model": "fotn:cblock/leviathan_spawner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6164014
+      },
+      "model": "fotn:cblock/egglord_spawner"
+    }
+  ]
+}

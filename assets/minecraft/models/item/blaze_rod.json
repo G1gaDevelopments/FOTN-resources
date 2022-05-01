@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/blaze_rod"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 6164001
+			},
+			"model": "fotn:item/blazeborn_baton"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6164009
+			},
+			"model": "fotn:item/ench_blaze_rod"
+		}
+	]
+}

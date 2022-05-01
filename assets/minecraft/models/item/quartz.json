@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/quartz"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 6164011
+      },
+      "model": "fotn:item/blazeborn_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6164013
+      },
+      "model": "fotn:item/levi_crystal"
+    }
+  ]
+}
