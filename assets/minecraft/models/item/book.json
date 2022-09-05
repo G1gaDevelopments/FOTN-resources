@@ -1,14 +1,14 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "minecraft:item/egg"
+      "layer0": "minecraft:item/book"
     },
     "overrides": [
       {
         "predicate": {
-          "custom_model_data": 6164015
+          "custom_model_data": 6164017
         },
-        "model": "fotn:item/egg_of_reincarnation"
+        "model": "fotn:item/tome_of_knowledge"
       }
     ]
   }
